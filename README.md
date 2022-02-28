@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Vinay Gupta</h1>
+<h3 align="center">A passionate Python Developer from India</h3>
+
+
 I’m a software engineer pursuing a master’s degree from R D Engineering College, Ghaziabad Uttar Pradesh (AKTU). After finishing my Bachelor of Technology in Computer Science & Engineering from JSS Academy of Technical Education Noida, Uttar Pradesh (AKTU), I’m looking for a career as a software developer. I’m building my skills in Data Structure, Python, C, Oops Concepts, HTML5, and MySQL.
 
 Along with this, I’ve completed my diploma in the Information Technology branch from Government Polytechnic Ghaziabad, Ghaziabad Uttar Pradesh (BTEUP). And also did my high school at Kendriya Vidyalaya Ballia, Uttar Pradesh (CBSE).
@@ -10,10 +14,6 @@ On the other side of me, I’m an athlete playing lots of games like Cricket, Fo
 
 Also, I like spending time in nature capturing all the wonderful moments of beauty with my camera. My favourite hobby is travelling because I love friends’ trips outings bring me the real adventure and thrill and also lots of fun into new places all by my friends’ group.
 
-<h1 align="center">Hi 👋, I'm Vinay Gupta</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaygupta077" alt="vinaygupta077" /></a> </p>
 
 - 🔭 I’m currently working on **Python**
 
