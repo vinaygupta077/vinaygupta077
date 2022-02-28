@@ -19,11 +19,11 @@ Also, I like spending time in nature capturing all the wonderful moments of beau
 
 - 🌱 I’m currently learning **Django, Flask, Tkinter, Numpy, MySql**
 
-- 👯 I’m looking to collaborate on **Front end and back end developers**
+- 👯 I’m looking to collaborate on **Front-end and Back-end developers**
 
-- 🤝 I’m looking for help with **Backend languages**
+- 🤝 I’m looking for help with **Back-end languages**
 
-- 💬 Ask me about **Python, Django, Flask, Tkinter, MySql, Numpy**
+- 💬 Ask me about **Python, Django, Flask, Tkinter,Numpy, MySql**
 
 - 📫 How to reach me **077v.kumar@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
