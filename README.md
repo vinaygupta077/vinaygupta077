@@ -23,7 +23,7 @@ Also, I like spending time in nature capturing all the wonderful moments of beau
 
 - 🤝 I’m looking for help with **Back-end languages**
 
-- 💬 Ask me about **Python, Django, Flask, Tkinter,Numpy, MySql**
+- 💬 Ask me about **Python, Django, Flask, Tkinter, Numpy, MySql**
 
 - 📫 How to reach me **077v.kumar@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
