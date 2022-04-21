@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Gupta</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Software Enginner from India</h3>
 
 
 I’m a software engineer pursuing a master’s degree from R D Engineering College, Ghaziabad Uttar Pradesh (AKTU). After finishing my Bachelor of Technology in Computer Science & Engineering from JSS Academy of Technical Education Noida, Uttar Pradesh (AKTU), I’m looking for a career as a software developer. I’m building my skills in Data Structure, Python, C, Oops Concepts, HTML5, and MySQL.
