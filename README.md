@@ -15,15 +15,6 @@ On the other side of me, I’m an athlete playing lots of games like Cricket, Fo
 Also, I like spending time in nature capturing all the wonderful moments of beauty with my camera. My favourite hobby is travelling because I love friends’ trips outings bring me the real adventure and thrill and also lots of fun into new places all by my friends’ group.
 
 
-- 🔭 I’m currently working on **Python's Library**
-
-- 🌱 I’m currently learning **Django, Flask, Tkinter, Numpy, MySql**
-
-- 👯 I’m looking to collaborate on **Front-end and Back-end developers**
-
-- 🤝 I’m looking for help with **Back-end languages**
-
-- 💬 Ask me about **Python, Django, Flask, Tkinter, Numpy, MySql**
 
 - 📫 How to reach me **077v.kumar@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
